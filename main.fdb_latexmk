@@ -1,0 +1,16 @@
+# Fdb version 4
+["pdflatex"] 1739463295 "/Users/anhnguyenhm/ml-textbook/main.tex" "main.pdf" "main" 1739463296 2
+  "/Users/anhnguyenhm/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo" 1686341992 8288 867145ec5d6251846a7cd312df752b18 ""
+  "/Users/anhnguyenhm/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls" 1686341992 23268 4ef3f0c1d276578b68abf6a1d0e1b8ad ""
+  "/Users/anhnguyenhm/Library/TinyTeX/texmf-dist/web2c/texmf.cnf" 1681165822 40967 d940221f8762fd5848760382d97d1226 ""
+  "/Users/anhnguyenhm/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1693452175 6774317 a63821e88c3902f2dcbd50e39ade5ce5 ""
+  "/Users/anhnguyenhm/Library/TinyTeX/texmf.cnf" 1693509777 708 85fd07691b6294ba94c59dbc62380410 ""
+  "/Users/anhnguyenhm/ml-textbook/main.tex" 1739463067 1951 d800c4be38ce0a5a4ad1cea89abef605 ""
+  "main.aux" 1739463295 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1739463067 1951 d800c4be38ce0a5a4ad1cea89abef605 ""
+  "scalerel.sty" 0 -1 0 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)

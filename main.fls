@@ -1,0 +1,11 @@
+PWD /Users/anhnguyenhm/ml-textbook
+INPUT /Users/anhnguyenhm/Library/TinyTeX/texmf.cnf
+INPUT /Users/anhnguyenhm/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /Users/anhnguyenhm/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/anhnguyenhm/ml-textbook/main.tex
+OUTPUT main.log
+INPUT /Users/anhnguyenhm/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
+INPUT /Users/anhnguyenhm/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
+INPUT /Users/anhnguyenhm/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
+INPUT /Users/anhnguyenhm/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
+INPUT /Users/anhnguyenhm/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo

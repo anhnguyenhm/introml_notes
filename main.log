@@ -1,0 +1,51 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.31)  13 FEB 2025 11:14
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/anhnguyenhm/ml-textbook/main.tex
+(/Users/anhnguyenhm/ml-textbook/main.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(/Users/anhnguyenhm/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/Users/anhnguyenhm/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+
+! LaTeX Error: File `scalerel.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+/Users/anhnguyenhm/ml-textbook/main.tex:5: Emergency stop.
+<read *> 
+         
+l.5 ^^M
+       
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 252 strings out of 476894
+ 3207 string characters out of 5808272
+ 1917807 words of memory out of 5000000
+ 21635 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 35i,0n,38p,152b,36s stack positions out of 10000i,1000n,20000p,200000b,200000s
+/Users/anhnguyenhm/ml-textbook/main.tex:5:  ==> Fatal error occurred, no output PDF file produced!
